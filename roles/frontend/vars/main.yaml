@@ -1,0 +1,3 @@
+BACKEND_HOST: backend.devopsaws-82.site
+APP_LOCAION: /usr/share/nginx/html
+COMPONENT: frontend
