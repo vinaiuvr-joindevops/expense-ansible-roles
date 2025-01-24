@@ -1,0 +1,5 @@
+MYSQL_HOST: mysql.devopsaws-82.site
+MYSQL_USER: root
+MYSQL_PASSWORD: ExpenseApp@1
+APP_LOCAION: /app
+COMPONENT: backend
